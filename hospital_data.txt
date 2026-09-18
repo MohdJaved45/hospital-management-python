@@ -1,0 +1,7 @@
+----- Patients -----
+001, Asif Khan, 20, 1
+
+----- Doctors -----
+001, Mohd Javed Khan, Orthopedic
+
+----- Appointments -----
